@@ -10,3 +10,6 @@ This is a little gist created for the talk "From PHP to Scala: My experience" in
 [Here](https://petr-zapletal.medium.com/this-week-in-scala-mar-11-2024-a9e3192790c2) an example of how one of this newsletters looks like
 * <b>[Scala times](https://scalatimes.com/):</b> Another amazing weekly newsletter to be updated on what's happening in the Scala ecosystem.
 * <b>[Scala matters](https://www.scalamatters.io/):</b> Like the description on the website says: it's kind of a vault where they have stored a lot of meetups videos and blogs.
+* <b>[Scala news](https://www.scalanews.net/):</b> Another great resource with a curated list of Scala-related news from the whole community.
+
+
