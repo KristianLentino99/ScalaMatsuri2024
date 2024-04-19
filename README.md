@@ -1,6 +1,6 @@
 # Learning material for Scala
 
-This is a little gist created for the talk "From PHP to Scala: My experience" in 2024 during the Scala Matsuri.
+This is a little repository created for the talk "From PHP to Scala: My experience" held in 2024 during the Scala Matsuri in Tokyo.
 
 * <b>[Rock the JVM](https://rockthejvm.com/):</b> One of the best resources you can find honestly. He has a YouTube channel where you can find free courses on Scala and even if free the quality is very high, with these free courses you can understand a lot of how Scala works. But the paid courses are the best part!! Rock the JVM published during the time a lot of different courses. It offers Scala basic and advanced courses and also very specific courses for libraries and frameworks such as Cats, Akka, ZIO etc...
 * <b>[Scala Book](https://docs.scala-lang.org/scala3/book/introduction.html):</b> The Scala book is basically a really quick introduction to the magical world of Scala. The book consists of more than 50 lessons. In my opinion one of the mandatory stuff you need to read if you want to start working with Scala.
